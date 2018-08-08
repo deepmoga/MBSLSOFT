@@ -1,0 +1,11 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Auth/main.master" AutoEventWireup="true" CodeFile="Sms-Setting.aspx.cs" Inherits="Auth_Sms_Setting" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="cphead" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cptitle" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="cpmain" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="cpfotter" Runat="Server">
+</asp:Content>
+
